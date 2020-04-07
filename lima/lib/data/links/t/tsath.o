@@ -1,0 +1,12 @@
+#/secure/user.c
+password "`ndc`mhb!nkmeaegghllcjkjhflknnfajfaanecoa"
+body_fname "/std/race/orc.c"
+format "%#-75.4s"
+failures ({})
+email ""
+real_name ""
+url ""
+threading_toggled 1
+channel_list ({"newbie","gossip","wiz","errors","announce","news",})
+didlog_time 1586284735
+userid "tsath"

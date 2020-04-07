@@ -1,0 +1,32 @@
+#/std/race/orc
+primary_id "tsath"
+persist_flags ([])
+psets ([])
+relations (["on":(/({}),256,0,0,0,([]),([]),/),])
+relation_aliases ([])
+default_relation "on"
+messages ([])
+def_message_type "living-default"
+effects ({})
+name "tsath"
+weapon_class 3
+to_hit_bonus -25
+damage_type ({"blow",})
+combat_messages ([])
+skill_used "combat/unarmed"
+death_message "Soon after $n $vhave breathed $p last, $p body disappears in a puff of black smoke."
+health 1
+max_health 1
+heal_rate 15
+slots (["legs":(/1,"legs",16,0,({}),/),"head":(/1,"head",4,0,({}),/),"neck":(/1,"neck",4,1,({}),/),"hands":(/1,"hands",4,0,({}),/),"feet":(/1,"feet",4,0,({}),/),"torso":(/1,"torso",64,0,({}),/),"right hand":(/1,"right hand",4,1,({}),/),"arms":(/1,"arms",16,0,({}),/),"left hand":(/1,"left hand",4,1,({}),/),])
+level 1
+defend_skill_used "combat/dodge"
+follow_search ({})
+delay_time 5
+topic_to_time ([])
+money ([])
+invis_name "Someone"
+skills ([])
+title "Tsath the title-less"
+guilds ([])
+saved_items "([\"adjs\":({}),\"#base_name#\":\"/std/race/orc\",\"#inventory#\":({}),])"
